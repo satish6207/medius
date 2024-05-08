@@ -12,7 +12,7 @@ function App() {
       <ul style={{display:"flex", justifyContent:'space-around'}}>
         <li><Link to='weather'>Home</Link></li>
         <li><Link to='services'>Services</Link> </li>
-        <li> <Link to='about'>About</Link></li>
+        <li><Link to='about'>About</Link></li>
         <li><Link to='contact'>Contact</Link></li>
       </ul>
       <Routes>
